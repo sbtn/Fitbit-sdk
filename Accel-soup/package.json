@@ -1,0 +1,18 @@
+{
+  "fitbit": {
+    "appType": "app",
+    "appDisplayName": "Accel-soup",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#f44336",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Accel-soup"
+      }
+    }
+  }
+}
